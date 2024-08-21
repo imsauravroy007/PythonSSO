@@ -1,0 +1,3 @@
+- name: 'python'
+      entrypoint: 'python'
+      args: ['-m', 'build']
